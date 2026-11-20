@@ -318,9 +318,6 @@ Through this project, the following concepts are explored:
 
 **Harshita Negi**
 
-GitHub: [HarshitaNegi82](https://github.com/HarshitaNegi82)
-
-Portfolio: `YOUR_CLOUDFRONT_URL`
 
 ---
 
